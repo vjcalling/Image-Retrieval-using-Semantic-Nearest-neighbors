@@ -7,3 +7,9 @@ c. model folder should be populated with Universal Sentence Encoder transformer 
   - https://tfhub.dev/google/universal-sentence-encoder-large/3
   
 Once all these dependencies are met, Jupyter Notebook should execute and compare all image retrieval pipelines.
+
+The overall flow of the image retrieval comparison notebook can be shown as:
+
+![Flow]('flowchart.png')
+
+
