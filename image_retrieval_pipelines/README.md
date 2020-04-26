@@ -10,6 +10,6 @@ Once all these dependencies are met, Jupyter Notebook should execute and compare
 
 The overall flow of the image retrieval comparison notebook can be shown as:
 
-![Flow]('flowchart.png')
+![Flow](flowchart.png)
 
 
